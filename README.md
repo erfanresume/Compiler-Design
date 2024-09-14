@@ -1,7 +1,4 @@
 # Compiler-Design
-<<<<<<< HEAD
-This is the project of Compiler Design course in University of Zanjan
-=======
 Zanjan university compiler design course project<br>
 <br>
 ### Course Description:<br>
