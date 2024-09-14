@@ -16,7 +16,7 @@ Compiler design for 'Small' programming language.<br>
 The following grammar describes the syntactic structure of the Small_Lang language.<br>
 <br>
 
-![SharedScreenshot](https://github.com/erfanresume/Compiler-Design/blob/main/257001102-84e5bf62-bdb4-4120-8ff3-896f754f1eb7.jpg)
-![SharedScreenshot1](https://github.com/erfanresume/Compiler-Design/blob/main/257001115-3246b0aa-7e38-4ae2-b0e3-5caef8f8cad9.jpg)
+![SharedScreenshot](https://github.com/erfanresume/Compiler-Design/blob/main/IMG1.jpg)
+![SharedScreenshot1](https://github.com/erfanresume/Compiler-Design/blob/main/IMG2.jpg)
 
 >>>>>>> 9776e8e (Compiler Design)
